@@ -1,3 +1,3 @@
 # N-API_CPP_Sample_Node_Addons
 
-Addons here are built for NW.js with NW-Gyp. With the usage of Node-Addon-Api (N-API), these addons can be compiled for both Node.js and NW.js.
+As Node-Addon-Api (N-API) is used, these addons can be compiled for both Node.js and NW.js(Node-Webkit). Samples are based on NW.js.
