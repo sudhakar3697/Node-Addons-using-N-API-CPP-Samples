@@ -7,4 +7,8 @@ Addons:
 
 Callback function with parameters
 
+Sync function to take a number as argument and increment it and return the result.
+
+Async function to take a number and a callback as arguments and increment and return the result.
+
 
